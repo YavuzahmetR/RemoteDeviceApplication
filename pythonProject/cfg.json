@@ -1,0 +1,4 @@
+{
+  "windows_executable": "remote.exe",
+  "ubuntu_executable": "ubuntu_executable"
+}
